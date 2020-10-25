@@ -143,7 +143,7 @@
       "FuelType": null,
       "PercentContained": 0,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "Multiple fires.",
       "Counties": [
         "Shasta"
       ],
@@ -151,8 +151,8 @@
       "SearchDescription": "The Olinda Fire started October 25, 2020 off West Anderson Dr and Davidson Ln, southwest of Anderson and Shasta County.",
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
-      "Updated": "2020-10-25T14:22:27.1354976-07:00",
-      "Started": "2020-10-25T14:22:27.1354976-07:00",
+      "Updated": "2020-10-25T15:08:39.3613073-07:00",
+      "Started": "2020-10-25T14:22:27",
       "Extinguished": null,
       "ArchiveYear": 2020,
       "Public": true,
@@ -1929,7 +1929,7 @@
       "FuelType": null,
       "PercentContained": 0,
       "ControlStatement": null,
-      "ConditionStatement": null,
+      "ConditionStatement": "Multiple fires.",
       "Counties": [
         "Shasta"
       ],
@@ -1937,8 +1937,8 @@
       "SearchDescription": "The Olinda Fire started October 25, 2020 off West Anderson Dr and Davidson Ln, southwest of Anderson and Shasta County.",
       "SearchKeywords": null,
       "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
-      "Updated": "2020-10-25T14:22:27.1354976-07:00",
-      "Started": "2020-10-25T14:22:27.1354976-07:00",
+      "Updated": "2020-10-25T15:08:39.3613073-07:00",
+      "Started": "2020-10-25T14:22:27",
       "Extinguished": null,
       "ArchiveYear": 2020,
       "Public": true,
@@ -6310,7 +6310,7 @@
       "AcresBurnedDisplay": "20",
       "PercentContainedDisplay": "0%",
       "CountiesList": "Shasta",
-      "UpdatedDate": "2020-10-25 14:22:27",
+      "UpdatedDate": "2020-10-25 15:08:39",
       "StartedDate": "2020-10-25",
       "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
       "IncidentTypeDisplay": "Wildfire",
