@@ -10,7 +10,7 @@
       "FuelType": null,
       "PercentContained": 0,
       "ControlStatement": null,
-      "ConditionStatement": "Approximately 60,000 people are evacuating the Irvine area. Check your evacuation location here:  https://cityofirvine.org/news-media/news-article/vegetation-fire-silverado-fire-update\n\nIrvine evacuation map available  <a href=\"https://cityofirvine.maps.arcgis.com/apps/webappviewer/index.html?id=c452152c1a5a46129dde513d8652e81e\"> here.</a>",
+      "ConditionStatement": "<p>Approximately 60,000 people are evacuating the Irvine area. Check your evacuation location here:  https://cityofirvine.org/news-media/news-article/vegetation-fire-silverado-fire-update</p>\n\n<p>Irvine evacuation map available  <a href=\"https://cityofirvine.maps.arcgis.com/apps/webappviewer/index.html?id=c452152c1a5a46129dde513d8652e81e\"> here.</a></p>",
       "Counties": [
         "Orange"
       ],
@@ -18,7 +18,7 @@
       "SearchDescription": "Silverado Fire started on October 26, 2020 off of Santiago Canyon Road and Silverado Canyon Road, Southwest of Silverado  in Orange County.",
       "SearchKeywords": null,
       "AdminUnit": "Orange County Fire Authority",
-      "Updated": "2020-10-26T11:19:09.1419378-07:00",
+      "Updated": "2020-10-26T11:34:23.7868759-07:00",
       "Started": "2020-10-26T07:54:50",
       "Extinguished": null,
       "ArchiveYear": 2020,
@@ -1885,7 +1885,7 @@
       "FuelType": null,
       "PercentContained": 0,
       "ControlStatement": null,
-      "ConditionStatement": "Approximately 60,000 people are evacuating the Irvine area. Check your evacuation location here:  https://cityofirvine.org/news-media/news-article/vegetation-fire-silverado-fire-update\n\nIrvine evacuation map available  <a href=\"https://cityofirvine.maps.arcgis.com/apps/webappviewer/index.html?id=c452152c1a5a46129dde513d8652e81e\"> here.</a>",
+      "ConditionStatement": "<p>Approximately 60,000 people are evacuating the Irvine area. Check your evacuation location here:  https://cityofirvine.org/news-media/news-article/vegetation-fire-silverado-fire-update</p>\n\n<p>Irvine evacuation map available  <a href=\"https://cityofirvine.maps.arcgis.com/apps/webappviewer/index.html?id=c452152c1a5a46129dde513d8652e81e\"> here.</a></p>",
       "Counties": [
         "Orange"
       ],
@@ -1893,7 +1893,7 @@
       "SearchDescription": "Silverado Fire started on October 26, 2020 off of Santiago Canyon Road and Silverado Canyon Road, Southwest of Silverado  in Orange County.",
       "SearchKeywords": null,
       "AdminUnit": "Orange County Fire Authority",
-      "Updated": "2020-10-26T11:19:09.1419378-07:00",
+      "Updated": "2020-10-26T11:34:23.7868759-07:00",
       "Started": "2020-10-26T07:54:50",
       "Extinguished": null,
       "ArchiveYear": 2020,
@@ -6327,7 +6327,7 @@
       "AcresBurnedDisplay": "2,000",
       "PercentContainedDisplay": "0%",
       "CountiesList": "Orange",
-      "UpdatedDate": "2020-10-26 11:19:09",
+      "UpdatedDate": "2020-10-26 11:34:23",
       "StartedDate": "2020-10-26",
       "AdminUnit": "Orange County Fire Authority",
       "IncidentTypeDisplay": "Wildfire",
